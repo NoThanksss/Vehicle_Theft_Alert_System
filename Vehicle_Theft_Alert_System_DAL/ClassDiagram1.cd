@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_Theft_Alert_System_DAL.PostgresContext">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAAAAAAAAAgAAAAEAMAAAAAAAggAAAAAAA=</HashCode>
+      <FileName>PostgresContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.UserRepository" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\UserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.AccountRepository" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAIIA=</HashCode>
+      <FileName>Repositories\AccountRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.ActivityScheduleRepository" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\ActivityScheduleRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.ConnectionRepository" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\ConnectionRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.CountryRepository" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\CountryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.FamilyPlanRepository" BaseTypeListCollapsed="true">
+    <Position X="5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\FamilyPlanRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.FamilyRepository" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\FamilyRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Repositories.TrackerRepository" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAEIAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Repositories\TrackerRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Migrations.init">
+    <Position X="2.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20220515163802_init.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Migrations.adding_nullable_properties">
+    <Position X="6.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20220515173736_adding_nullable_properties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Migrations.AddingAuth">
+    <Position X="4.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20220525200956_AddingAuth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Migrations.PostgresContextModelSnapshot">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\PostgresContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.AccountDB">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\AccountDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.ActivityScheduleDB">
+    <Position X="11.75" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAEAAAAAAAAAAAAoAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models\ActivityScheduleDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.AlertSystemRole">
+    <Position X="18.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AlertSystemRole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.ConnectionDB">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAQEACAAAAAAAAAQIAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\ConnectionDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.CountryDB">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CountryDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.FamilyDB">
+    <Position X="9.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAQAEIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FamilyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.FamilyPlanDB">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAAAAAAAQAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\FamilyPlanDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.TrackerDB">
+    <Position X="14.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAABAAAAAAAAAAAAQAIQEAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\TrackerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Models.UserDB">
+    <Position X="16.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAICAAAAAQAQAAAAAAAAAAEAMAAAAAAA=</HashCode>
+      <FileName>Models\UserDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IAccountRepository">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Interfaces\IAccountRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IActivityScheduleRepository">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IActivityScheduleRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IBaseRepository&lt;TEntity&gt;">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAoAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\IBaseRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IConnectionRepository">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IConnectionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.ICountryRepository">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICountryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IFamilyPlanRepository">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IFamilyPlanRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IFamilyRepository">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IFamilyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.ITrackerRepository">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ITrackerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_DAL.Interfaces.IUserRepository">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

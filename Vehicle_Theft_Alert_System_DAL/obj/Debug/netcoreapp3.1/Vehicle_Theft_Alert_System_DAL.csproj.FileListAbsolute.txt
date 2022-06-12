@@ -1,0 +1,13 @@
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.AssemblyInfoInputs.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.AssemblyInfo.cs
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.csproj.CoreCompileInputs.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.deps.json
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.dll
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.pdb
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.dll
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.pdb
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.csproj.AssemblyReference.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.runtimeconfig.json
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.runtimeconfig.dev.json
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_DAL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.AssemblyInfoInputs.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.AssemblyInfo.cs
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.csproj.CoreCompileInputs.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.deps.json
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.dll
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.pdb
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.dll
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.pdb
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.dll
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\bin\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_DAL.pdb
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.csproj.CopyComplete
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.csproj.AssemblyReference.cache
+C:\Users\notha\source\repos\Vehicle_Theft_Alert_System\Vehicle_Theft_Alert_System_BLL\obj\Debug\netcoreapp3.1\Vehicle_Theft_Alert_System_BLL.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Attributes.JsonPropertyWithSensitiveDataAttribute">
+    <Position X="19.25" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\JsonPropertyWithSensitiveDataAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Attributes.NotLoggingAttribute">
+    <Position X="21.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\NotLoggingAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Attributes.SwaggerExcludeAttribute">
+    <Position X="19.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\SwaggerExcludeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Builders.ServiceProviderBuilder">
+    <Position X="19.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQCAAAAAA=</HashCode>
+      <FileName>Builders\ServiceProviderBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.AccountServiceException">
+    <Position X="10" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\AccountServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.ActivityScheduleServiceException">
+    <Position X="12.5" Y="13.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ActivityScheduleServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.ConnectionServiceException">
+    <Position X="0.5" Y="13.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ConnectionServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.CountryServiceException">
+    <Position X="5.25" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\CountryServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.FamilyPlanServiceException">
+    <Position X="15.5" Y="13.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\FamilyPlanServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.FamilyServiceException">
+    <Position X="3" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\FamilyServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.TrackerServiceException">
+    <Position X="7.5" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\TrackerServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Exceptions.UserServiceException">
+    <Position X="18" Y="13.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\UserServiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Extensions.SerializationExtensions">
+    <Position X="21" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\SerializationExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.AccountMappingProfile">
+    <Position X="8.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\AccountMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.ActivityScheduleMappingProfile">
+    <Position X="10.25" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\ActivityScheduleMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.ConnectionMappingProfile">
+    <Position X="0.5" Y="10.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\ConnectionMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.CountryMappingProfile">
+    <Position X="4.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\CountryMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.FamilyMappingProfile">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\FamilyMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.FamilyPlanMappingProfile">
+    <Position X="14.75" Y="10.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\FamilyPlanMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.TrackerMappingProfile">
+    <Position X="6.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\TrackerMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Mapping.UserMappingProfile">
+    <Position X="17" Y="10.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapping\UserMappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.Account">
+    <Position X="8.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAACEAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.ActivitySchedule">
+    <Position X="10.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAgAA=</HashCode>
+      <FileName>Models\ActivitySchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.AuthResponse">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\AuthResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.Connection">
+    <Position X="0.5" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAQAAAAAAAgAAAAQIAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.Country">
+    <Position X="4.5" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.Family">
+    <Position X="2.5" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Family.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.FamilyPlan">
+    <Position X="15" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAgAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\FamilyPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.LoginModel">
+    <Position X="13" Y="9" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LoginModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.RegisterModel">
+    <Position X="13" Y="10.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAICAAAAAQAQAgAAQAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RegisterModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.Tracker">
+    <Position X="6.5" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAABAAAAAAAAAAAAQAIQEAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\Tracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Models.User">
+    <Position X="17" Y="7.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAICAAAAAQAQAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.AccountService" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAIAAAQAAAABQAAAIAAAAAAACEQAAQIAAAA=</HashCode>
+      <FileName>Services\AccountService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.ActivityScheduleService" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAIAAAEQAAACEAoAAAACA=</HashCode>
+      <FileName>Services\ActivityScheduleService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.AuthService" BaseTypeListCollapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAIAAAAAAAAAQAABAAAEAAAAAAAgAAAEAAAAAAA=</HashCode>
+      <FileName>Services\AuthService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.ConnectionService" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAQAAEAAAABAAEAIAAFAAEAAAgAAAAAAAA=</HashCode>
+      <FileName>Services\ConnectionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.CountryService" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCIAIAAAAAAAAAAABAAAAIAAAAAAAwAAAAAAAAAA=</HashCode>
+      <FileName>Services\CountryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.FamilyPlanService" BaseTypeListCollapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAADAAQAIAAAAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>Services\FamilyPlanService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.FamilyService" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgYAAAAIAAAAAAAABAAgAIAAAgAAAAEAAAEAAAAA=</HashCode>
+      <FileName>Services\FamilyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.JwtHandler">
+    <Position X="19" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgIAAAACIAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Services\JwtHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.TrackerService" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAEAAAAAAABAAAAIAAAAABAAAAAEAAAEAA=</HashCode>
+      <FileName>Services\TrackerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_BLL.Services.UserService" BaseTypeListCollapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAoAAAAAAAEAQABAAAAIQAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Services\UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IAccountService">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAIAAAAAAAAAQAAAAAAAAAAACEQAAQIAAAA=</HashCode>
+      <FileName>Interfaces\IAccountService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IActivityScheduleService">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAoAAAACA=</HashCode>
+      <FileName>Interfaces\IActivityScheduleService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IAuthService">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAuthService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IConnectionService">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAEAAAAAAAEAAAABAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IConnectionService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.ICountryService">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCIAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICountryService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IFamilyPlanService">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAAAAAQAAAAAAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>Interfaces\IFamilyPlanService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IFamilyService">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAgAAAAAgAAAAEAAAEAAAAA=</HashCode>
+      <FileName>Interfaces\IFamilyService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.ITrackerService">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEAAAEAA=</HashCode>
+      <FileName>Interfaces\ITrackerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vehicle_Theft_Alert_System_BLL.Interfaces.IUserService">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAEAQAAAAAAAQAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Interfaces\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.AccountsController">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAAAAAAAAAAAAQAAAIAAAAAAACARAAQIAAAA=</HashCode>
+      <FileName>Controllers\AccountsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.ActivitySchedulesController">
+    <Position X="17" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAACEAoAgAAAA=</HashCode>
+      <FileName>Controllers\ActivitySchedulesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.AuthController">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgIAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Controllers\AuthController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.ConnectionsController">
+    <Position X="6" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAEAAAAAAAEAIAAJAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controllers\ConnectionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.CountriesController">
+    <Position X="2.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABCIAAAgAAAACAAAAAAAAAIAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CountriesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.DemoController">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAIAAAAAAABAIAAAAgAAEAAAACAA=</HashCode>
+      <FileName>Controllers\DemoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.FamiliesController">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAAAAIAAAIAAAAgAIBAAgAAAAEAAEEAAAAA=</HashCode>
+      <FileName>Controllers\FamiliesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.FamilyPlansController">
+    <Position X="8" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAAAAAQAIBAAAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>Controllers\FamilyPlansController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.TrackersController">
+    <Position X="15.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAAAAAAAAAAAAAAIAAIAABAgAAAEAEAEAE=</HashCode>
+      <FileName>Controllers\TrackersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Controllers.UsersController">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAEAQAAAAAAIQAAAAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Filters.SwaggerExcludeFilter">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\SwaggerExcludeFilter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Logging.Destructure.ArrayStrategy" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logging\Destructure\ArrayStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Logging.Destructure.ObjectStrategy" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAEAAAgAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Logging\Destructure\ObjectStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Logging.Destructure.RemoveFromLoggingStrategy" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAEAAAIAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Logging\Destructure\RemoveFromLoggingStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Logging.Destructure.SensitiveDataDestructuringPolicy" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logging\Destructure\SensitiveDataDestructuringPolicy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Logging.Destructure.SerializableStrategy" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logging\Destructure\SerializableStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Models.CompactJsonFormatter">
+    <Position X="3.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAgAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CompactJsonFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System.Models.LogModel">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIABAIAACAAA=</HashCode>
+      <FileName>Models\LogModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Program">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Theft_Alert_System_DAL.Startup">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vehicle_Theft_Alert_System.Logging.Destructure.ISensitiveDataStrategy">
+    <Position X="13.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logging\Destructure\ISensitiveDataStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
